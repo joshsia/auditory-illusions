@@ -20,7 +20,13 @@ Each illusion has its own page as shown below with a poll asking users how they 
 
 ![illusion-page](https://github.com/joshsia/auditory-illusions/blob/main/ui_img/illusion-page.png)
 
-To view our report, click [here](https://github.com/joshsia/auditory-illusions/blob/main/report_auditory_illusions.pdf). To view our poster, click [here](https://github.com/joshsia/auditory-illusions/blob/main/poster_auditory_illusions.png). To view our poster interactively, click [here](https://prezi.com/djuwcpcerwur/auditory-illusions/?utm_campaign=share&utm_medium=copy).
+To visit our website, click [here](https://auditoryillusions.herokuapp.com/).
+
+To view our report, click [here](https://github.com/joshsia/auditory-illusions/blob/main/report_auditory_illusions.pdf). 
+
+To view our poster, click [here](https://github.com/joshsia/auditory-illusions/blob/main/poster_auditory_illusions.png). 
+
+To view our poster interactively, click [here](https://prezi.com/djuwcpcerwur/auditory-illusions/?utm_campaign=share&utm_medium=copy).
 
 ## Credits
 This project is co-authored with Yi Teng Voon, Huang Yilin, Beth Maughan, Techawin Manoonporn, Sabrina Lim and Sam Turner at Imperial College London under the supervision of Dr Tobias Reichenbach.
