@@ -1,2 +1,16 @@
 # auditory-illusions
-A user interface for the demonstration of auditory illusions.
+
+Authors: Joshua Sia, Yi Teng Voon, Huang Yilin, Beth Maughan, Techawin Manoonporn, Sabrina Lim, Sam Turner
+
+Date: 2021-03-20
+
+Note: This project is no longer being maintained and the poll feature of the website no longer functions.
+
+## About
+
+Auditory illusions occur when real acoustical stimuli are misperceived by our auditory system. This relatively new illusory field has found a place in entertainment, influencing musical scores and films. It has also elucidated some of the workings of the human auditory system benefitting medical developments and research revolving around acoustical stimuli. This project aims to develop a public outreach tool, in the form of a User Interface (UI), to generate interest and improve understanding of auditory illusions. 
+
+To achieve this, research from multiple sources was collated on 12 illusions. Each illusion was created independently on GarageBand, Sibelius or MATLAB. The UI itself was produced using HTML5, Cascaded Style Sheets (CSS) and Javascript. The result, thus far, is a website that includes 12 completed illusions and integrated surveys to collect data concerning user perception and characteristics. Results of the survey are then displayed using graphs and interesting observations are displayed.
+
+## Credits
+This project is co-authored with Yi Teng Voon, Huang Yilin, Beth Maughan, Techawin Manoonporn, Sabrina Lim and Sam Turner at Imperial College London under the supervision of Dr Tobias Reichenbach.
