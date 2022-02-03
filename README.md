@@ -14,8 +14,6 @@ To achieve this, research from multiple sources was collated on 12 illusions. Ea
 
 The home page of our website contains an overview of the 12 illusions created.
 
-![home-page](https://github.com/joshsia/auditory-illusions/blob/main/ui_img/home_page.png)
-
 To view our report, click [here](https://github.com/joshsia/auditory-illusions/blob/main/report_auditory_illusions.pdf). To view our poster, click [here](https://github.com/joshsia/auditory-illusions/blob/main/poster_auditory_illusions.png). To view our poster interactively, click [here](https://prezi.com/djuwcpcerwur/auditory-illusions/?utm_campaign=share&utm_medium=copy).
 
 ## Credits
