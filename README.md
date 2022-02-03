@@ -4,7 +4,7 @@ Authors: Joshua Sia, Yi Teng Voon, Huang Yilin, Beth Maughan, Techawin Manoonpor
 
 Date: 2021-03-20
 
-Note: This project is no longer being maintained and the poll feature of the website no longer functions.
+Note: This project is no longer being maintained and the poll feature of the website no longer functions. **Important:** If you decide to work on this project, do not store your credentials in `db.php`.
 
 ## About
 
