@@ -12,5 +12,7 @@ Auditory illusions occur when real acoustical stimuli are misperceived by our au
 
 To achieve this, research from multiple sources was collated on 12 illusions. Each illusion was created independently on GarageBand, Sibelius or MATLAB. The UI itself was produced using HTML5, Cascaded Style Sheets (CSS) and Javascript. The result, thus far, is a website that includes 12 completed illusions and integrated surveys to collect data concerning user perception and characteristics. Results of the survey are then displayed using graphs and interesting observations are displayed.
 
+To view our report, click [here](https://github.com/joshsia/auditory-illusions/blob/main/report_auditory_illusions.pdf). To view our poster, click [here](https://github.com/joshsia/auditory-illusions/blob/main/poster_auditory_illusions.png). To view our poster interactively, click [here](https://prezi.com/djuwcpcerwur/auditory-illusions/?utm_campaign=share&utm_medium=copy).
+
 ## Credits
 This project is co-authored with Yi Teng Voon, Huang Yilin, Beth Maughan, Techawin Manoonporn, Sabrina Lim and Sam Turner at Imperial College London under the supervision of Dr Tobias Reichenbach.
